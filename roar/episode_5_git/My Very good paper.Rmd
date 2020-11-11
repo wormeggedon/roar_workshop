@@ -1,0 +1,17 @@
+---
+title: "My Very good paper"
+author: "Jack Martin"
+date: "11/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# My Great Paper 
+
+the mitochondria is the power house of the cell
+
+ 
+Knitting time dsfsdf
